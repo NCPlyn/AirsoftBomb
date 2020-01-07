@@ -16,3 +16,7 @@ Here is code for an Airsoft Bomb using Arduino!
 
 ### Here's the schematics how to connect everything up:
 ![Schematics](https://i.imgur.com/tNbkopz.png)
+
+### And here some videos!
+[Test explosion](http://imgload.hys.cz/up/IMG_1923.MOV)
+[Small tutorial, but in czech](http://imgload.hys.cz/up/bmb.mp4)
