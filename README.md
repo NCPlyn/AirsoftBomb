@@ -21,3 +21,5 @@ Here is code for an Airsoft Bomb using Arduino!
 [Test explosion](http://imgload.hys.cz/up/IMG_1923.MOV)
 
 [Small tutorial, but in czech](http://imgload.hys.cz/up/bmb.mp4)
+
+*and i know, it's a mess, but hey! it works :D*
