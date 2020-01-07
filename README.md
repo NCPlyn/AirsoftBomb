@@ -15,4 +15,4 @@ The relay will close for the match,scourer or whatever you will use to ignite th
 For reset or defuse you can use the key switch!
 
 Here's the schematics how to connect everything up:
-![Schematics](https://imgur.com/a/fN2JLNr)
+![Schematics](https://i.imgur.com/tNbkopz.png)
